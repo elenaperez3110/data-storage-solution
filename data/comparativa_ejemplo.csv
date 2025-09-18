@@ -1,0 +1,5 @@
+Tecnologia,VelocidadLecturaMBs,VelocidadEscrituraMBs,CapacidadTB,CostoPorGBUSD,MTBFHoras,ConsumoW,Seguridad,Escalabilidad
+HDD,150,150,10,0.03,1500000,8,Media,Alta
+SSD,500,500,4,0.10,2000000,4,Alta,Media
+Cintas,300,200,30,0.01,2500000,6,Media,Baja
+Nube,200,150,999,0.02,0,0,Alta,Muy alta
